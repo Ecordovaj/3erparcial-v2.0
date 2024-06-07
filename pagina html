@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jose Emiliano Cordova Lima </title>
+</head>
+<body>
+
+    <h1>Pagina estatica</h1>
+
+    <p> Para cerrar la pagina haga click en el boton</p>
+
+    <button onclick="cerrarPagina()">VIVAN LOS PUMASSSSS!!!!!!!!!!!!!!!!!!!!!!!!!!</button>
+
+    <script>
+        function cerrarPagina() {
+            window.close();
+        }
+    </script>
+
+</body>
+</html>
